@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Fundamentals",
+    "level": "Beginner",
+    "price": "$49",
+    "category": "Web",
+    "description": "An introductory course covering the core concepts of modern web development.",
+    "whatYouWillLearn": [
+      "HTML structure and semantics",
+      "CSS styling and layouts",
+      "Basic JavaScript concepts",
+      "How websites work"
+    ],
+    "prerequisites": "No prior programming knowledge required.",
+    "duration": "6 weeks"
+  },
+  {
+    "id": 2,
+    "title": "React & Modern JavaScript",
+    "level": "Intermediate",
+    "price": "$79",
+    "category": "Web",
+    "description": "Learn how to build dynamic user interfaces using React and modern JavaScript features.",
+    "whatYouWillLearn": [
+      "ES6+ JavaScript",
+      "React components and hooks",
+      "State and props management",
+      "Building single-page applications"
+    ],
+    "prerequisites": "Basic JavaScript and HTML/CSS knowledge.",
+    "duration": "8 weeks"
+  },
+  {
+    "id": 3,
+    "title": "Python for Data Science",
+    "level": "Beginner",
+    "price": "$69",
+    "category": "Data Science",
+    "description": "A beginner-friendly introduction to data analysis and data science using Python.",
+    "whatYouWillLearn": [
+      "Python fundamentals",
+      "Data analysis with Pandas",
+      "Data visualization basics",
+      "Working with real datasets"
+    ],
+    "prerequisites": "Basic computer knowledge.",
+    "duration": "7 weeks"
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Development",
+    "level": "Advanced",
+    "price": "$99",
+    "category": "Mobile",
+    "description": "Advanced course focused on building production-ready mobile applications.",
+    "whatYouWillLearn": [
+      "Mobile app architecture",
+      "UI/UX best practices",
+      "State management",
+      "Deploying mobile applications"
+    ],
+    "prerequisites": "Experience with JavaScript or another programming language.",
+    "duration": "10 weeks"
+  },
+  {
+    "id": 5,
+    "title": "Node.js & Express Backend",
+    "level": "Intermediate",
+    "price": "$89",
+    "category": "Backend",
+    "description": "Build scalable backend applications using Node.js and Express.",
+    "whatYouWillLearn": [
+      "REST API development",
+      "Express routing and middleware",
+      "Authentication basics",
+      "Connecting with databases"
+    ],
+    "prerequisites": "JavaScript fundamentals.",
+    "duration": "8 weeks"
+  },
+  {
+    "id": 6,
+    "title": "Data Structures & Algorithms",
+    "level": "Intermediate",
+    "price": "$59",
+    "category": "Computer Science",
+    "description": "Strengthen problem-solving skills with core data structures and algorithms.",
+    "whatYouWillLearn": [
+      "Arrays, stacks, and queues",
+      "Linked lists and trees",
+      "Sorting and searching algorithms",
+      "Big-O complexity analysis"
+    ],
+    "prerequisites": "Basic programming knowledge.",
+    "duration": "6 weeks"
+  },
+  {
+    "id": 7,
+    "title": "Machine Learning Basics",
+    "level": "Beginner",
+    "price": "$85",
+    "category": "AI / ML",
+    "description": "An introduction to machine learning concepts and real-world use cases.",
+    "whatYouWillLearn": [
+      "What machine learning is",
+      "Supervised vs unsupervised learning",
+      "Basic ML algorithms",
+      "Model evaluation concepts"
+    ],
+    "prerequisites": "Basic Python knowledge recommended.",
+    "duration": "7 weeks"
+  },
+  {
+    "id": 8,
+    "title": "Full Stack MERN Development",
+    "level": "Advanced",
+    "price": "$129",
+    "category": "Full Stack",
+    "description": "Master full stack development using MongoDB, Express, React, and Node.js.",
+    "whatYouWillLearn": [
+      "Frontend development with React",
+      "Backend APIs with Node and Express",
+      "Database design with MongoDB",
+      "Full stack project deployment"
+    ],
+    "prerequisites": "React and JavaScript experience.",
+    "duration": "12 weeks"
+  },
+  {
+    "id": 9,
+    "title": "Git & GitHub for Developers",
+    "level": "Beginner",
+    "price": "$39",
+    "category": "Tools",
+    "description": "Learn version control and collaboration using Git and GitHub.",
+    "whatYouWillLearn": [
+      "Git basics and commands",
+      "Working with repositories",
+      "Branching and merging",
+      "Collaborating with teams"
+    ],
+    "prerequisites": "No prerequisites.",
+    "duration": "3 weeks"
+  }
+]

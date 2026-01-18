@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Fundamentals",
+    "level": "Beginner",
+    "price": "$49",
+    "category": "Web",
+    "description": "An introductory course covering the core concepts of modern web development.",
+    "whatYouWillLearn": [
+      "HTML structure and semantics",
+      "CSS styling and layouts",
+      "Basic JavaScript concepts",
+      "How websites work"
+    ],
+    "prerequisites": "No prior programming knowledge required.",
+    "duration": "6 weeks",
+    "instructor": "Dr. Alex Morgan",
+    "students": 8234,
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "title": "React & Modern JavaScript",
+    "level": "Intermediate",
+    "price": "$79",
+    "category": "Web",
+    "description": "Build modern, interactive web applications using React and modern JavaScript.",
+    "whatYouWillLearn": [
+      "ES6+ JavaScript features",
+      "React components and hooks",
+      "State and props management",
+      "Single Page Applications"
+    ],
+    "prerequisites": "Basic JavaScript and HTML/CSS knowledge.",
+    "duration": "8 weeks",
+    "instructor": "Sarah Johnson",
+    "students": 6120,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "title": "Python for Data Science",
+    "level": "Beginner",
+    "price": "$69",
+    "category": "Data Science",
+    "description": "Learn Python fundamentals and apply them to data analysis and visualization.",
+    "whatYouWillLearn": [
+      "Python basics",
+      "Data analysis with Pandas",
+      "Data visualization",
+      "Working with real datasets"
+    ],
+    "prerequisites": "Basic computer knowledge.",
+    "duration": "7 weeks",
+    "instructor": "Michael Chen",
+    "students": 7345,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Development",
+    "level": "Advanced",
+    "price": "$99",
+    "category": "Mobile",
+    "description": "Design and develop production-ready mobile applications.",
+    "whatYouWillLearn": [
+      "Mobile app architecture",
+      "UI/UX best practices",
+      "State management",
+      "App deployment"
+    ],
+    "prerequisites": "Experience with JavaScript or another programming language.",
+    "duration": "10 weeks",
+    "instructor": "Emily Roberts",
+    "students": 3890,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "title": "Node.js & Express Backend",
+    "level": "Intermediate",
+    "price": "$89",
+    "category": "Backend",
+    "description": "Create scalable backend APIs using Node.js and Express.",
+    "whatYouWillLearn": [
+      "REST API development",
+      "Express middleware",
+      "Authentication basics",
+      "Database integration"
+    ],
+    "prerequisites": "JavaScript fundamentals.",
+    "duration": "8 weeks",
+    "instructor": "Daniel Thompson",
+    "students": 4587,
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "title": "Data Structures & Algorithms",
+    "level": "Intermediate",
+    "price": "$59",
+    "category": "Computer Science",
+    "description": "Improve problem-solving skills using core data structures and algorithms.",
+    "whatYouWillLearn": [
+      "Arrays, stacks, and queues",
+      "Linked lists and trees",
+      "Sorting and searching",
+      "Big-O notation"
+    ],
+    "prerequisites": "Basic programming knowledge.",
+    "duration": "6 weeks",
+    "instructor": "Prof. Laura Bennett",
+    "students": 9021,
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "title": "Machine Learning Basics",
+    "level": "Beginner",
+    "price": "$85",
+    "category": "AI / ML",
+    "description": "Understand the fundamentals of machine learning and real-world applications.",
+    "whatYouWillLearn": [
+      "Machine learning concepts",
+      "Supervised vs unsupervised learning",
+      "Basic ML algorithms",
+      "Model evaluation"
+    ],
+    "prerequisites": "Basic Python knowledge recommended.",
+    "duration": "7 weeks",
+    "instructor": "Dr. Kevin Patel",
+    "students": 5214,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "title": "Full Stack MERN Development",
+    "level": "Advanced",
+    "price": "$129",
+    "category": "Full Stack",
+    "description": "Become a full stack developer using the MERN stack.",
+    "whatYouWillLearn": [
+      "React frontend development",
+      "Node & Express backend",
+      "MongoDB database design",
+      "Full stack deployment"
+    ],
+    "prerequisites": "React and JavaScript experience.",
+    "duration": "12 weeks",
+    "instructor": "Sophia Williams",
+    "students": 3189,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "title": "Git & GitHub for Developers",
+    "level": "Beginner",
+    "price": "$39",
+    "category": "Tools",
+    "description": "Learn version control and collaboration using Git and GitHub.",
+    "whatYouWillLearn": [
+      "Git commands",
+      "Repository management",
+      "Branching and merging",
+      "Team collaboration"
+    ],
+    "prerequisites": "No prerequisites.",
+    "duration": "3 weeks",
+    "instructor": "James Anderson",
+    "students": 11045,
+    "rating": 4.9
+  }
+]
