@@ -6,14 +6,14 @@ import ProtectedRoute from "@/components/ProtectedRoute";
 import Link from "next/link";
 
 export default function Courses() {
-  const [courses, setCourses] = useState([]);
+  const [coursesData, setCoursesData] = useState([]);
   useEffect(() => {
     fetch("courses.json")
       .then((res) => res.json())
-      .then((data) => setCourses(data));
+      .then((data) => setCoursesData(data));
   }, []);
   console.log();
-  
+
   return (
     <ProtectedRoute>
       <section id="courses" className="py-16 px-4 bg-gray-50">
@@ -22,7 +22,7 @@ export default function Courses() {
             All Courses
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {courses.map((course, idx) => (
+            {coursesData.map((course, idx) => (
               <div
                 key={idx}
                 className="bg-white p-6 rounded-lg border border-gray-200 hover:shadow-lg transition"

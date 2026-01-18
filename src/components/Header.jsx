@@ -32,8 +32,11 @@ const Header = () => {
               Courses
             </Link>
             {token ? (
-              <p title="LogOut" onClick={handlelogOut}>
-                <LogOut className="w-8 h-8 cursor-pointer text-black" />
+              <p title="LogOut">
+                <LogOut
+                  onClick={handlelogOut}
+                  className="w-8 h-8 cursor-pointer text-black"
+                />
               </p>
             ) : (
               <Link href="/login" className="text-gray-600 hover:text-gray-900">

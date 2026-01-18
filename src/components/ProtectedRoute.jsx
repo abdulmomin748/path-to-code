@@ -13,7 +13,7 @@ export default function ProtectedRoute({ children }) {
     if (!token) {
       router.push("/login"); 
     } else {
-      // setIsAuthenticated(true);
+      setIsAuthenticated(true);
     }
   }, [router]);   
   if (!isAuthenticated) return null; // avoid rendering page
