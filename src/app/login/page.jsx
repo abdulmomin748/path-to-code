@@ -16,7 +16,7 @@ const Login = () => {
     e.preventDefault();
     if (email === hardcodedEmail && password === hardcodedPassword) {
       Cookies.set("authToken", "mock-token", { expires: 1 });
-      router.push("/course");
+      router.push("/courses");
     } else {
       setError("Invalid email or password");
     }
