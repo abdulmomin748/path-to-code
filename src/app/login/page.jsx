@@ -11,7 +11,6 @@ const Login = () => {
   const handleLogin = (e) => {
     const hardcodedEmail = "admin@pathtocode.com";
     const hardcodedPassword = "123456";
-    console.log(email, password);
 
     e.preventDefault();
     if (email === hardcodedEmail && password === hardcodedPassword) {
